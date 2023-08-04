@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "junit/test/java",
+        "application/src/main/java/com/examly/springapp"
+    ]
+}
